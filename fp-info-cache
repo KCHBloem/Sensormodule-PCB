@@ -1,0 +1,309 @@
+74579330940087
+Kylian
+CP-40-15
+
+
+0
+41
+41
+Kylian
+[0402] Capacitor
+
+
+0
+2
+2
+Kylian
+[0402] Resistor
+
+
+0
+2
+2
+Kylian
+[0603] Capacitor
+
+
+0
+2
+2
+Kylian
+[0603] Diode
+
+
+0
+2
+2
+Kylian
+[0603] Led
+
+
+0
+2
+2
+Kylian
+[0603] Resistor
+
+
+0
+2
+2
+Kylian
+[Component] Adafruit BNO-055
+
+
+0
+10
+10
+Kylian
+[Component] Sparkfun ZEDF9P
+
+
+0
+25
+25
+Kylian
+[Connector] USB-C
+
+
+0
+16
+13
+Kylian
+[Connector] USB-C-mdmnt
+
+
+0
+16
+13
+Kylian
+[Header] 2.54mm 3-Position
+
+
+0
+3
+3
+Kylian
+[Header] 2.54mm 4-Position
+
+
+0
+4
+4
+Kylian
+[Header] 2.54mm 6-Position
+
+
+0
+6
+6
+Kylian
+[Header] 2.54mm 7-Position SMD
+
+
+0
+7
+7
+Kylian
+[Header] 2.54mm 8-Position
+
+
+0
+8
+8
+Kylian
+[Header] 2.54mm 40-Position Female
+
+
+0
+40
+40
+Kylian
+[Inductor] 74408053004
+
+
+0
+2
+2
+Kylian
+[Inductor] LPS6225-332MRC
+
+
+0
+2
+2
+Kylian
+[JUMPER]
+
+
+0
+2
+2
+Kylian
+[LQFP32]
+
+
+0
+32
+32
+Kylian
+[LQFP64]
+
+
+0
+64
+64
+Kylian
+[Molex] 2-Pos 2.54mm
+
+
+0
+2
+2
+Kylian
+[Molex] 4-Pos 2.54mm
+
+
+0
+4
+4
+Kylian
+[Molex] 6-Pos 2.54mm
+
+
+0
+6
+6
+Kylian
+[PAD] 2-Pos 1mmx2mm
+
+
+0
+2
+2
+Kylian
+[QFN20]
+
+
+0
+21
+21
+Kylian
+[SC59] Transistor
+
+
+0
+3
+3
+Kylian
+[SOT-23-5]
+
+
+0
+5
+5
+Kylian
+[SOT-23-6]
+
+
+0
+6
+6
+Kylian
+[SOT-223-4]
+
+
+0
+4
+3
+Kylian
+[SW] 4.1mmx2.8mm
+
+
+0
+5
+3
+Kylian
+[SW] 6.2mmx6.2mm
+
+
+0
+4
+2
+Kylian
+[SW] pcb mount
+
+
+0
+4
+2
+Kylian
+[TP]
+
+
+0
+1
+1
+Kylian
+[TVS-Diode] 2.9mmx1.9mm
+
+
+0
+2
+2
+Kylian
+[Terminal] 2-Pos 2.54mm Screw Terminal
+
+
+0
+2
+2
+Kylian
+[Terminal] 2-Pos 5mm
+
+
+0
+2
+2
+Kylian
+[Terminal] 8-Pos 5mm
+
+
+0
+8
+8
+Kylian
+[UFQFPN28]
+
+
+0
+28
+28
+Kylian
+[WSON] 6-PIN
+
+
+0
+6
+6
+Kylian
+[XTAL] 2.05mmx1.2mm
+
+
+0
+2
+2
+Kylian
+[XTAL] 2.5mmx2mm
+
+
+0
+4
+4
+Kylian
+[XTAL] 5mmx3.2mm
+
+
+0
+2
+2
