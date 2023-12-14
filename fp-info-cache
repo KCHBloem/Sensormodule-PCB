@@ -1,4 +1,4 @@
-74579330940087
+77979492039749
 Kylian
 CP-40-15
 
@@ -8,6 +8,13 @@ CP-40-15
 41
 Kylian
 [0402] Capacitor
+
+
+0
+2
+2
+Kylian
+[0402] Inductor
 
 
 0
@@ -295,6 +302,13 @@ Kylian
 2
 Kylian
 [XTAL] 2.5mmx2mm
+
+
+0
+4
+4
+Kylian
+[XTAL] 2mmx1.6mm
 
 
 0
